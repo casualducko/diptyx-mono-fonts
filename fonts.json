@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "baseUrl": "https://github.com/casualducko/diptyx-mono-fonts/releases/download/sd-fonts-m1-b4/",
+  "scriptGroups": [
+    {
+      "tag": "latin",
+      "label": "Latin"
+    },
+    {
+      "tag": "cyrillic",
+      "label": "Cyrillic"
+    },
+    {
+      "tag": "greek",
+      "label": "Greek"
+    },
+    {
+      "tag": "georgian",
+      "label": "Georgian"
+    },
+    {
+      "tag": "armenian",
+      "label": "Armenian"
+    },
+    {
+      "tag": "ethiopic",
+      "label": "Ethiopic"
+    }
+  ],
+  "families": [
+    {
+      "name": "AtkinsonHyperlegibleNextMono",
+      "description": "Accessibility font for low vision (Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "AtkinsonHyperlegibleNextMono_10.cpfont",
+          "size": 282916,
+          "crc32": 3155481940
+        },
+        {
+          "name": "AtkinsonHyperlegibleNextMono_12.cpfont",
+          "size": 356776,
+          "crc32": 1899088492
+        },
+        {
+          "name": "AtkinsonHyperlegibleNextMono_14.cpfont",
+          "size": 440698,
+          "crc32": 3619707780
+        },
+        {
+          "name": "AtkinsonHyperlegibleNextMono_16.cpfont",
+          "size": 535200,
+          "crc32": 3595602930
+        },
+        {
+          "name": "AtkinsonHyperlegibleNextMono_18.cpfont",
+          "size": 669714,
+          "crc32": 1759474922
+        }
+      ]
+    },
+    {
+      "name": "BitterMono",
+      "description": "Slab serif designed for e-ink (Latin, Cyrillic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic"
+      ],
+      "files": [
+        {
+          "name": "BitterMono_10.cpfont",
+          "size": 424785,
+          "crc32": 1112005882
+        },
+        {
+          "name": "BitterMono_12.cpfont",
+          "size": 532071,
+          "crc32": 2951118319
+        },
+        {
+          "name": "BitterMono_14.cpfont",
+          "size": 653808,
+          "crc32": 1011806529
+        },
+        {
+          "name": "BitterMono_16.cpfont",
+          "size": 797758,
+          "crc32": 1637611652
+        },
+        {
+          "name": "BitterMono_18.cpfont",
+          "size": 998507,
+          "crc32": 541378215
+        }
+      ]
+    },
+    {
+      "name": "ChareInkMono",
+      "description": "E-ink optimized serif based on Charis SIL (Latin, Cyrillic), from CrossInk - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic"
+      ],
+      "files": [
+        {
+          "name": "ChareInkMono_10.cpfont",
+          "size": 341684,
+          "crc32": 3291482667
+        },
+        {
+          "name": "ChareInkMono_12.cpfont",
+          "size": 422445,
+          "crc32": 3453846875
+        },
+        {
+          "name": "ChareInkMono_14.cpfont",
+          "size": 542388,
+          "crc32": 1475677522
+        },
+        {
+          "name": "ChareInkMono_16.cpfont",
+          "size": 679671,
+          "crc32": 787185657
+        },
+        {
+          "name": "ChareInkMono_18.cpfont",
+          "size": 878803,
+          "crc32": 3704309777
+        }
+      ]
+    },
+    {
+      "name": "CrimsonProMono",
+      "description": "Elegant old-style serif (Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "CrimsonProMono_10.cpfont",
+          "size": 266990,
+          "crc32": 1045902203
+        },
+        {
+          "name": "CrimsonProMono_12.cpfont",
+          "size": 327367,
+          "crc32": 178547364
+        },
+        {
+          "name": "CrimsonProMono_14.cpfont",
+          "size": 397361,
+          "crc32": 3904571443
+        },
+        {
+          "name": "CrimsonProMono_16.cpfont",
+          "size": 478607,
+          "crc32": 957618364
+        },
+        {
+          "name": "CrimsonProMono_18.cpfont",
+          "size": 593100,
+          "crc32": 3949615105
+        }
+      ]
+    },
+    {
+      "name": "DyslexicMono",
+      "description": "Dyslexia-friendly font (Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "DyslexicMono_10.cpfont",
+          "size": 360713,
+          "crc32": 219002881
+        },
+        {
+          "name": "DyslexicMono_12.cpfont",
+          "size": 471681,
+          "crc32": 3989414991
+        },
+        {
+          "name": "DyslexicMono_14.cpfont",
+          "size": 605896,
+          "crc32": 3968076637
+        },
+        {
+          "name": "DyslexicMono_16.cpfont",
+          "size": 752436,
+          "crc32": 2270133624
+        },
+        {
+          "name": "DyslexicMono_18.cpfont",
+          "size": 958802,
+          "crc32": 1741357678
+        }
+      ]
+    },
+    {
+      "name": "InterMono",
+      "description": "Modern sans-serif (Latin, Greek, Cyrillic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic",
+        "greek"
+      ],
+      "files": [
+        {
+          "name": "InterMono_10.cpfont",
+          "size": 573186,
+          "crc32": 816949634
+        },
+        {
+          "name": "InterMono_12.cpfont",
+          "size": 713557,
+          "crc32": 289493046
+        },
+        {
+          "name": "InterMono_14.cpfont",
+          "size": 873167,
+          "crc32": 1877368463
+        },
+        {
+          "name": "InterMono_16.cpfont",
+          "size": 1059932,
+          "crc32": 947523349
+        },
+        {
+          "name": "InterMono_18.cpfont",
+          "size": 1334842,
+          "crc32": 1115222692
+        }
+      ]
+    },
+    {
+      "name": "LiterataMono",
+      "description": "Screen-optimized serif (Latin, Greek, Cyrillic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic",
+        "greek"
+      ],
+      "files": [
+        {
+          "name": "LiterataMono_10.cpfont",
+          "size": 631685,
+          "crc32": 231869246
+        },
+        {
+          "name": "LiterataMono_12.cpfont",
+          "size": 767815,
+          "crc32": 2716528538
+        },
+        {
+          "name": "LiterataMono_14.cpfont",
+          "size": 928441,
+          "crc32": 1551739510
+        },
+        {
+          "name": "LiterataMono_16.cpfont",
+          "size": 1108839,
+          "crc32": 3137860216
+        },
+        {
+          "name": "LiterataMono_18.cpfont",
+          "size": 1391077,
+          "crc32": 1671343043
+        }
+      ]
+    },
+    {
+      "name": "NotoSansMonochrome",
+      "description": "Sans-serif (Latin, Greek, Cyrillic, Georgian, Armenian, Ethiopic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic",
+        "greek",
+        "georgian",
+        "armenian",
+        "ethiopic"
+      ],
+      "files": [
+        {
+          "name": "NotoSansMonochrome_10.cpfont",
+          "size": 498096,
+          "crc32": 778833094
+        },
+        {
+          "name": "NotoSansMonochrome_12.cpfont",
+          "size": 635744,
+          "crc32": 2070894012
+        },
+        {
+          "name": "NotoSansMonochrome_14.cpfont",
+          "size": 795051,
+          "crc32": 362839556
+        },
+        {
+          "name": "NotoSansMonochrome_16.cpfont",
+          "size": 976077,
+          "crc32": 1600006217
+        },
+        {
+          "name": "NotoSansMonochrome_18.cpfont",
+          "size": 1234059,
+          "crc32": 511158424
+        }
+      ]
+    },
+    {
+      "name": "SourceSerif4Mono",
+      "description": "Adobe's text serif, sturdy stems (Latin, Greek, Cyrillic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic",
+        "greek"
+      ],
+      "files": [
+        {
+          "name": "SourceSerif4Mono_10.cpfont",
+          "size": 542157,
+          "crc32": 3121802595
+        },
+        {
+          "name": "SourceSerif4Mono_12.cpfont",
+          "size": 674834,
+          "crc32": 3472805950
+        },
+        {
+          "name": "SourceSerif4Mono_14.cpfont",
+          "size": 830090,
+          "crc32": 3733228614
+        },
+        {
+          "name": "SourceSerif4Mono_16.cpfont",
+          "size": 1007342,
+          "crc32": 3627771292
+        },
+        {
+          "name": "SourceSerif4Mono_18.cpfont",
+          "size": 1261160,
+          "crc32": 2529600911
+        }
+      ]
+    },
+    {
+      "name": "SpectralMono",
+      "description": "Elegant screen-first serif (Latin, Cyrillic) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "scripts": [
+        "latin",
+        "cyrillic"
+      ],
+      "files": [
+        {
+          "name": "SpectralMono_10.cpfont",
+          "size": 372019,
+          "crc32": 269466284
+        },
+        {
+          "name": "SpectralMono_12.cpfont",
+          "size": 467183,
+          "crc32": 251606156
+        },
+        {
+          "name": "SpectralMono_14.cpfont",
+          "size": 568659,
+          "crc32": 4087229691
+        },
+        {
+          "name": "SpectralMono_16.cpfont",
+          "size": 692575,
+          "crc32": 2156481515
+        },
+        {
+          "name": "SpectralMono_18.cpfont",
+          "size": 868091,
+          "crc32": 2680266633
+        }
+      ]
+    }
+  ]
+}
