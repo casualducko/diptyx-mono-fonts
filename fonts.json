@@ -25,6 +25,14 @@
     {
       "tag": "ethiopic",
       "label": "Ethiopic"
+    },
+    {
+      "tag": "arabic",
+      "label": "Arabic"
+    },
+    {
+      "tag": "hebrew",
+      "label": "Hebrew"
     }
   ],
   "families": [
@@ -231,6 +239,45 @@
       ]
     },
     {
+      "name": "FrankRuhlLibreMono",
+      "description": "Hebrew serif for books (Hebrew, Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold"
+      ],
+      "scripts": [
+        "hebrew",
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "FrankRuhlLibreMono_10.cpfont",
+          "size": 138189,
+          "crc32": 4184503086
+        },
+        {
+          "name": "FrankRuhlLibreMono_12.cpfont",
+          "size": 176551,
+          "crc32": 222253316
+        },
+        {
+          "name": "FrankRuhlLibreMono_14.cpfont",
+          "size": 219915,
+          "crc32": 1009325919
+        },
+        {
+          "name": "FrankRuhlLibreMono_16.cpfont",
+          "size": 269686,
+          "crc32": 1705682173
+        },
+        {
+          "name": "FrankRuhlLibreMono_18.cpfont",
+          "size": 341693,
+          "crc32": 174107579
+        }
+      ]
+    },
+    {
       "name": "InterMono",
       "description": "Modern sans-serif (Latin, Greek, Cyrillic) - mono-hinted",
       "styles": [
@@ -311,6 +358,84 @@
           "name": "LiterataMono_18.cpfont",
           "size": 1391077,
           "crc32": 1671343043
+        }
+      ]
+    },
+    {
+      "name": "NotoNaskhArabicMono",
+      "description": "Arabic naskh (Arabic, Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold"
+      ],
+      "scripts": [
+        "arabic",
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "NotoNaskhArabicMono_10.cpfont",
+          "size": 305486,
+          "crc32": 767514679
+        },
+        {
+          "name": "NotoNaskhArabicMono_12.cpfont",
+          "size": 397968,
+          "crc32": 4142858666
+        },
+        {
+          "name": "NotoNaskhArabicMono_14.cpfont",
+          "size": 509791,
+          "crc32": 2616565274
+        },
+        {
+          "name": "NotoNaskhArabicMono_16.cpfont",
+          "size": 633591,
+          "crc32": 532632499
+        },
+        {
+          "name": "NotoNaskhArabicMono_18.cpfont",
+          "size": 817443,
+          "crc32": 596255087
+        }
+      ]
+    },
+    {
+      "name": "NotoSansHebrewMono",
+      "description": "Hebrew sans (Hebrew, Latin) - mono-hinted",
+      "styles": [
+        "regular",
+        "bold"
+      ],
+      "scripts": [
+        "hebrew",
+        "latin"
+      ],
+      "files": [
+        {
+          "name": "NotoSansHebrewMono_10.cpfont",
+          "size": 142689,
+          "crc32": 77736473
+        },
+        {
+          "name": "NotoSansHebrewMono_12.cpfont",
+          "size": 179127,
+          "crc32": 2227492812
+        },
+        {
+          "name": "NotoSansHebrewMono_14.cpfont",
+          "size": 225338,
+          "crc32": 1226258428
+        },
+        {
+          "name": "NotoSansHebrewMono_16.cpfont",
+          "size": 275787,
+          "crc32": 2668407987
+        },
+        {
+          "name": "NotoSansHebrewMono_18.cpfont",
+          "size": 349686,
+          "crc32": 1258187812
         }
       ]
     },
